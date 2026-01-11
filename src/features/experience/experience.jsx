@@ -21,7 +21,7 @@ const MyProfile = () => {
         {/* ☄️ ORBITING ICONS */}
         <div className="orbit-icons">
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/profile.php?id=61585753491612"
             className="icon facebook"
             target="_blank"
             rel="noreferrer"
