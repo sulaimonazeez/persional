@@ -21,7 +21,7 @@ const Store = () => {
     // Simulate loading time
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 2500);
+    }, 0);
 
     return () => clearTimeout(timer); // Cleanup timeout
   }, []);
